@@ -1,4 +1,4 @@
-https://github.com/Milkyy-way/Data-Visualization
+[https://github.com/Milkyy-way/Data-Visualization](https://milkyy-way.github.io/Data-Visualization/)
 # In-Class Activity 
 - MultiView 
 - Data Reduce
